@@ -31,9 +31,9 @@ Py Task Manager CLI is a simple, command-line interface (CLI) task manager built
 
 ## Usage
 
-To start using the task manager, run:
+To start using the task manager, run the main script:
 ```bash
-python task_manager.py
+python todocli.py show
 ```
 
 You will be presented with a menu to add, view, mark, or delete tasks.
