@@ -29,11 +29,6 @@ Py Task Manager CLI is a simple, command-line interface (CLI) task manager built
    cd py-task-manager-cli
    ```
 
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 
 To start using the task manager, run:
