@@ -1,7 +1,5 @@
 # Py Task Manager CLI
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
 ## Overview
 
 Py Task Manager CLI is a simple, command-line interface (CLI) task manager built in Python. It helps you manage your tasks efficiently with an easy-to-use interface. 
@@ -35,7 +33,3 @@ To start using the task manager, run the main script:
 ```bash
 python todocli.py show
 ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
