@@ -36,8 +36,6 @@ To start using the task manager, run the main script:
 python todocli.py show
 ```
 
-You will be presented with a menu to add, view, mark, or delete tasks.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
